@@ -119,3 +119,10 @@ Automated validation checks confirm 100% record accountability from raw ingestio
 3. Click **Run pipeline** to execute the Bronze → Silver → Gold DAG.
 4. Run `gold_validation_ecommerce.py` in a standalone Databricks notebook to verify row-count reconciliation and dimensional revenue totals.
 
+## BI Dashboard Preview
+<img width="842" height="547" alt="image" src="https://github.com/user-attachments/assets/c04a2462-7446-414a-b978-0d8c28cec47e" />
+<img width="843" height="556" alt="image" src="https://github.com/user-attachments/assets/fade4f16-11d6-4060-b339-c48e83f51e49" />
+<img width="836" height="553" alt="image" src="https://github.com/user-attachments/assets/8c51d7cd-61a7-4afd-9cc9-6467f1f53700" />
+<img width="845" height="567" alt="image" src="https://github.com/user-attachments/assets/67482ede-1f8b-4a43-9fce-56079b16440a" />
+
+
