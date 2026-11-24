@@ -2,7 +2,7 @@
 
 # End-to-End E-Commerce Sales Data Engineering Pipeline (Medallion Architecture)
 
-![Lakeflow Pipeline Graph](dag.png)
+<img width="790" height="273" alt="DAG" src="https://github.com/user-attachments/assets/37a8c6ee-8ab0-4efb-ac44-70015aa06e31" />
 
 An end-to-end incremental data engineering pipeline built on **Databricks** using **Lakeflow Spark Declarative Pipelines (SDP)**, **PySpark**, **Auto Loader**, and **Unity Catalog**. The pipeline ingests raw daily e-commerce order CSV exports, enforces data quality rules and business-grain deduplication, and materializes business-ready Gold analytical views.
 
